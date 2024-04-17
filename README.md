@@ -11,3 +11,6 @@ gold.txt
 .
 
 **Store the checkpoints in the experiment folder**
+
+### Result
+![image](https://github.com/aarsha01/EEG-to-Image/assets/75726461/0246b4e2-86af-46dc-b5f4-b93ba7ff099e)

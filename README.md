@@ -1,6 +1,6 @@
 ## To run the app 
 ```
-stream run gui.py
+streamlit run gui.py
 ```
 ### Data
 To test you can use the data in

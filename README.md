@@ -14,3 +14,7 @@ gold.txt
 
 ### Result
 ![image](https://github.com/aarsha01/EEG-to-Image/assets/75726461/0246b4e2-86af-46dc-b5f4-b93ba7ff099e)
+
+### To set up the checkpoints and Testing 
+[Google Drive for required assets](https://drive.google.com/drive/folders/1VhtrC37VGdFrh7SCBs2pmkl7UM_fqchb?usp=sharing)
+

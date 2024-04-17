@@ -1,0 +1,11 @@
+pandas
+plotly
+streamlit
+yfinance
+pandas
+tensorflow
+matplotlib
+numpy
+opencv-python-headless
+tqdm
+tensorflow-addons 
